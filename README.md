@@ -2,7 +2,9 @@
 
 An interactive, animated web walkthrough of **C fundamentals**. Every example runs step by step while the matching C code highlights line by line, so you can see the bytes, stack frames and pointers behind each line.
 
-It is a companion to [C Data Structures Visualizer](../c-data-structures-visualizer) and uses the same animation engine.
+**Live demo:** https://n-shovel.github.io/c-fundamentals-visualizer/
+
+It is a companion to [C Data Structures Visualizer](https://github.com/N-Shovel/c-data-structures-visualizer) ([live demo](https://n-shovel.github.io/c-data-structures-visualizer/)) and uses the same animation engine.
 
 ## Topics
 
