@@ -307,7 +307,7 @@ h1 { font-size: 18px; margin: 0; letter-spacing: -.01em; }
 .n { color: var(--tk-n); } .c { color: var(--tk-c); font-style: italic; } .s { color: var(--tk-s); }
 
 .log {
-  list-style: none; margin: 0; padding: 6px 0; max-height: 210px; overflow: auto;
+  list-style: none; margin: 0; padding: 6px 0; height: 210px; overflow: auto;
   font: 12px/1.5 "JetBrains Mono", monospace;
 }
 .log li { padding: 2px 14px; color: var(--muted); }
